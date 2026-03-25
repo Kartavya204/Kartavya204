@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartavya204&label=Profile%20views&color=0e75b6&style=flat" alt="kartavya204" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartavya204" alt="kartavya204" /></a> </p>
-
 - 🔭 I’m currently working on **BELEIVE**
 
 - 🌱 I’m currently learning **Advanced Python, FastAPI's ,Cloud Computing (AWS) and deployment ,strategies DevOps practices – CI/CD, GitHub Actions , System Design basics for real-world applications**
