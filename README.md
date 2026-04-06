@@ -111,15 +111,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartavya204&show_icons=true&theme=tokyonight" />
-
-</p>
-
----
-
-## 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartavya204&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kartavya204&show_icons=true&theme=tokyonight" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartavya204&layout=compact&theme=tokyonight" 
+    height="165"
+  />
 </p>
 
 ---
